@@ -1,0 +1,30 @@
+.group-discus {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 0 50px;
+}
+.group-left h1 {
+    font-size: 54px;
+    font-weight: 600;
+    padding-top: 8px;
+    margin: 0;
+}
+.group-left p{
+    color: #282938;
+    padding-top: 31px;
+    
+}
+.group-ab p{
+    font-weight: 600;
+}
+
+.group-right img{
+    height: 336px;
+    width: 547px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}

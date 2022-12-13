@@ -1,0 +1,21 @@
+.banner-logo{
+    margin-top: 15px;
+}
+.companies{
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.user h3 {
+    font-size: 38px;
+    font-weight: 600;
+    margin: 0;
+}
+.user h3 p{
+    margin: 0;
+}
+.lorem{
+    height:32px;
+    width: 161px;
+}
